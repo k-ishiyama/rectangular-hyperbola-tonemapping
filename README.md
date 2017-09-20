@@ -1,2 +1,4 @@
 # rectangular-hyperbola-tonemapping
-This idea is created by http://technorgb.blogspot.jp/
+[rectangular-hyperbola-tonemapping.pdf](/rectangular-hyperbola-tonemapping.pdf)
+
+This idea is originally from http://technorgb.blogspot.jp/
